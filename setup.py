@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='rwgen',
     version='0.0.6',
-    packages=['rwgen', 'rwgen.tests', 'rwgen.weather', 'rwgen.rainfall'],
+    packages=['rwgen', 'rwgen.weather', 'rwgen.rainfall'],
     url='https://github.com/davidpritchard1/rwgen',
     license='GPL-3.0 license',
     author='ndp81',
